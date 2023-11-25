@@ -19,11 +19,9 @@
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" " /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusmonov&show_icons=true&locale=en&layout=compact" alt="theusmonov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theusmonov&show_icons=true&locale=en" alt="theusmonov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theusmonov&" alt="theusmonov" /></p>
+
