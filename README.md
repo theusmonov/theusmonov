@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Asadbek Usmonov</h1>
-<img align="right" alt="Coding" width="400" src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1302192/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png">
+<h3 align="center">Hi 👋, I'm Asadbek Usmonov</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theusmonov&label=Profile%20views&color=0e75b6&style=flat" alt="theusmonov" /> </p>
-<h3 align="center">I am  Node js Software Engineer</h3>
+<h3 align="center">I am  Node.js Software Engineer</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
