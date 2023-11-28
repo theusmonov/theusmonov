@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **NodeJS, Javascript, NestJs, PostgreSQL, MongoDB**
+- 💬 Ask me about **NodeJs, Javascript, NestJs, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **asadbekusmonov2003@gmail.com**
 
