@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <i class="devicon-express-original-wordmark" alt="express" width="40" height="40"></i>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <!-- Nest.js logotipi -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
