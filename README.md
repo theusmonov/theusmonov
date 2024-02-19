@@ -1,6 +1,6 @@
 ### Hi there, I'm Asadbek Usmonov 👋 
 
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/checkpoint/challenge/AgFS6zVU6_KcMAAAAY28I0Y4P1H52f-ZUQGdRBBOBCuY2zy-W0ECu49E4HjgkdM3fsWNtgWlDj9sOWujVNOUXNza0qXyZA?ut=1xVxCVpdG-rH81)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/asadbek-usmonov-578726274)
 
 ## **I'm a Software Engineer.**
 
