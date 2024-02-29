@@ -43,8 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusmonov&show_icons=true&locale=en&layout=compact" alt="theusmonov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theusmonov&show_icons=true&locale=en" alt="theusmonov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theusmonov&" alt="theusmonov" /></p>
 
 ---
