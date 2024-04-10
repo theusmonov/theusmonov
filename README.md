@@ -6,7 +6,7 @@
 
 - 🎯 **I’m currently learning**: software architecture and design principles.
 - 💬 **Ask me about**: NodeJs, NestJs, PostgreSQL, RESTful APIs
-- 📫 **How to reach me**: Reach out via asadbekusmonov2003@gmail.com or connect with me on LinkedIn! 👆
+- 📫 **How to reach me**: Reach out via asadbekusmonov2003@gmail.com
 
 <hr/>
 
